@@ -17,7 +17,7 @@
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
     "paths": {
-      "@shared/*": ["../shared/supabase/*"]
+      "@shared/*": ["shared/supabase/*"]
     }
   },
   "include": ["src"]
